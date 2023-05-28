@@ -6,7 +6,9 @@
 
 ### 后续将陆续添加完善功能
 
-### 欢迎大家提供更多需要和谐的词语[（点击此处提交反馈）](https://github.com/HolyshitOvO/BH3-StoryTeller/issues)
+### 欢迎大家提供更多需要和谐的词语，格式：和谐词语=需转换的词
+
+### [（点击此处提交反馈）](https://github.com/HolyshitOvO/BH3-StoryTeller/issues)
 
 <br>
 <br>
