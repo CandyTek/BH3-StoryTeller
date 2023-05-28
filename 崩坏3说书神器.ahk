@@ -117,7 +117,7 @@ return
 ;〓〓 按钮事件，文本分隔
 BtnSplitText:
 ; pattern := "(.{1,40}[，。！？；”…》’~—])(?=.{0,39}(?:$|[，。！？；”…》’~—]))"
-pattern := "(.{1,39}[，。！？；：”…》】）、’—~\.,!?>\-'""])"
+pattern := "(.{1,39}[，。！？；：”…》】」）、’—~\.,!?>\-'""])"
 SetGuiEditText1(RegExReplace(GetGuiEditText1(), pattern, "$1`n"))
 return
 
@@ -186,13 +186,12 @@ return
 
 <^q::
 {
-	
 	Clipboard:=TellStoryArr[Now_Tell_Line]
 	Now_Tell_Line++
 	send,^v
 	sleep,50
 	send,{enter}
-	sleep,3000
+	sleep,2000
 	Return
 }
 
