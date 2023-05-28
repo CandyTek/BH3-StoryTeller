@@ -1,13 +1,22 @@
 # 崩坏3 说书神器
 
-### 完全开源，用 AutoHotkey 语言写的 Windows 软件，用以在游戏崩坏3聊天频道里更方便快捷的说书。
+## 完全开源，用 AutoHotkey 语言写的 Windows 软件，用以在游戏崩坏3聊天频道里更方便快捷的说书。
 
-## 点击此处下载！
+### 软件处于测试阶段，还不稳定，请注意及时备份，必免丢失！!
 
-## 软件处于测试阶段，很多功能还不稳定，请注意及时备份！
+### 后续将陆续添加完善功能
+
+### 欢迎大家提供更多需要和谐的词语[（点击此处提交反馈）](https://github.com/HolyshitOvO/BH3-StoryTeller/issues)
 
 <br>
 <br>
+
+### 更多资源：
+
+### [AutoHotkey 官网](https://www.autohotkey.com)
+
+### [AutoHotkey 帮助文档](https://wyagd001.github.io/zh-cn/docs/)
+
 <br>
 <br>
 <br>
