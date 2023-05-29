@@ -20,7 +20,9 @@
 ### [AutoHotkey 帮助文档](https://wyagd001.github.io/zh-cn/docs/)
 
 <br>
-<br>
+
+![软件界面](https://github.com/HolyshitOvO/BH3-StoryTeller/assets/39211450/dcdea14d-8208-431d-b241-298faab7853e)
+
 <br>
 <br>
 <br>
